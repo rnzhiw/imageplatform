@@ -1,4 +1,4 @@
-# ![1578036329464](C:\Users\联想\AppData\Local\Temp\1578036329464.png)图片管理系统
+# 图片管理系统
 
 基于Spring+SpringMVC+JPA（Maven方式构建）rnzhiw/imageplatform
 
