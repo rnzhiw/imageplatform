@@ -102,5 +102,5 @@ $ 注册对象存储，免费使用，注册也很方便
 
 ![1578036392523](/preview/14.png)
 
-![image](https://github.com/rnzhiw/imageplatform/blob/master/preview/1.png)
+
 
