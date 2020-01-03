@@ -1,3 +1,4 @@
+
 # 图片管理系统
 
 基于Spring+SpringMVC+JPA（Maven方式构建）rnzhiw/imageplatform
@@ -97,7 +98,9 @@ $ 注册对象存储，免费使用，注册也很方便
 
 ![1578036392523](/preview/12.png)
 
+![1578036392523](/preview/13.png)
 
+![1578036392523](/preview/14.png)
 
 
 
