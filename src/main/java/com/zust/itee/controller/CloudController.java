@@ -23,6 +23,7 @@ public class CloudController {
      */
     @RequestMapping("/uptoken.do")
     public AjaxResult getToken(){
+        // 这个地方根据自己七牛云的accessKey和secretKey和bucket（空间名称）写上去
         String accessKey = "";
         String secretKey = "";
         String bucket = "";
