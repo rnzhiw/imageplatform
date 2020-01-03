@@ -23,9 +23,9 @@ public class CloudController {
      */
     @RequestMapping("/uptoken.do")
     public AjaxResult getToken(){
-        String accessKey = "nzQXGEPTM3vvnTzUiarY9igWVNR_ucJHYX6r5dVm";
-        String secretKey = "4rFKLyIEEsdWkdG0mSFrsl6E6H3WLcKWHCLAodCe";
-        String bucket = "rnzhiw123";
+        String accessKey = "";
+        String secretKey = "";
+        String bucket = "";
         Auth auth = Auth.create(accessKey, secretKey);
         String upToken = auth.uploadToken(bucket);
         return AjaxResult.success((Object) upToken);
