@@ -1,0 +1,18 @@
+.form-group{
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+.bootstrap-select{
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+.search-bar{
+    margin-top: -10px;
+}
+.filter-option{
+    background-color: #fff;
+    color: #555;
+}
+.search-bar form .form-group .organization-item{
+    width: 80%;
+}
