@@ -27,6 +27,8 @@ $ input name imageplatform [clean,jetty:run...]
 $ input Command line:clean jetty:run -Djetty.port=8080
 
 $ http://localhost:8080/login.do
+
+$ 需要注意的是我把数据库账号和密码删了，大家clone以后写上自己的数据库哦
 ```
 
 ## 编译环境
