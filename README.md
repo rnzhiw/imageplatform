@@ -3,6 +3,8 @@
 
 基于Spring+SpringMVC+JPA（Maven方式构建）rnzhiw/imageplatform
 
+喜欢的朋友点个star哦
+
 
 
 ## 项目简介
